@@ -9,7 +9,7 @@ import java.util.function.Supplier;
 
 /**
  * @author javaquery
- * @since 2025-11-26
+ * @since 1.0.0
  */
 public interface GenericService<T, ID> {
     default T save(T entity) {

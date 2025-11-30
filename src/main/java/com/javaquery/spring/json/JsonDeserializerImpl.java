@@ -10,7 +10,7 @@ import java.io.IOException;
 /**
  * Json deserializer that trims leading and trailing whitespace from string values during JSON deserialization.
  * @author javaquery
- * @since 2025-11-26
+ * @since 1.0.0
  */
 @JsonComponent
 public class JsonDeserializerImpl extends JsonDeserializer<String> {

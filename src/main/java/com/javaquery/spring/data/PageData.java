@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author javaquery
- * @since 2025-11-26
+ * @since 1.0.0
  */
 public class PageData<T> {
     private final long totalElements;

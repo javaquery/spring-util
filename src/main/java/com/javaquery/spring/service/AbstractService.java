@@ -14,7 +14,7 @@ import java.util.function.Supplier;
  * Abstract service class providing common CRUD operations.
  *
  * @author javaquery
- * @since 2025-11-26
+ * @since 1.0.0
  */
 public abstract class AbstractService<T, ID> {
 
